@@ -1,7 +1,7 @@
 /*begin-commonstyles library*//*!
  * froala_editor v4.0.6 (https://www.froala.com/wysiwyg-editor)
  * License https://froala.com/wysiwyg-editor/terms/
- * Copyright 2014-2021 Froala Labs
+ * Copyright 2014-2021 Fr
  */
 
 .fr-clearfix::after {
@@ -45574,7 +45574,7 @@ a.u-link.u-text-hover-color-var:hover {
         .u-table-alt-custom-color-2 tr:nth-child(even)
         {
             color: #111111;
-            background-color: #f5f36d;
+            background-color: #F0E9DF;
 
         }
 
@@ -45584,7 +45584,7 @@ a.u-link.u-text-hover-color-var:hover {
         .u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #111111 !important;
-            background-color: #f5f36d !important;
+            background-color: #F0E9DF !important;
         }
 
         .u-button-style.u-custom-color-2:hover,
@@ -45617,7 +45617,7 @@ a.u-link.u-text-hover-color-var:hover {
         a.u-button-style.u-hover-custom-color-2[class*="u-border-"]:focus
         {
             color: #111111 !important;
-            background-color: #f5f36d !important;
+            background-color: #F0E9DF !important;
         }
 
         /* active */
@@ -45634,11 +45634,11 @@ a.u-link.u-text-hover-color-var:hover {
         input.u-field-input.u-field-input.u-active-custom-color-2:checked
         {
             color: #111111 !important;
-            background-color: #f5f36d !important;
+            background-color: #F0E9DF !important;
         }
 
         a.u-link.u-hover-custom-color-2:hover {
-            color: #f5f36d !important;
+            color: #F0E9DF !important;
         }
 
         
@@ -45706,14 +45706,14 @@ a.u-link.u-text-hover-color-var:hover {
         .u-border-custom-color-2.u-field-input.u-field-input,
         .u-separator-custom-color-2:after
         {
-            border-color: #f5f36d;
-            stroke: #f5f36d;
+            border-color: #F0E9DF;
+            stroke: #F0E9DF;
         }
 
         .u-button-style.u-border-custom-color-2
         {
-            border-color: #f5f36d !important;
-            color: #f5f36d !important;
+            border-color: #F0E9DF !important;
+            color: #F0E9DF !important;
             background-color: transparent !important;
         }
 
@@ -45731,8 +45731,8 @@ a.u-link.u-text-hover-color-var:hover {
         a.u-button-style:hover > .u-border-hover-custom-color-2,
         a.u-button-style.u-border-hover-custom-color-2:focus
         {
-            color: #f5f36d !important;
-            border-color: #f5f36d !important;
+            color: #F0E9DF !important;
+            border-color: #F0E9DF !important;
         }
 
 
@@ -45743,13 +45743,13 @@ a.u-link.u-text-hover-color-var:hover {
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-2,
         input.u-field-input.u-field-input.u-border-active-custom-color-2:checked
         {
-            color: #f5f36d !important;
-            border-color: #f5f36d !important;
+            color: #F0E9DF !important;
+            border-color: #F0E9DF !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]
         {
-            border-color: #f5f36d !important;
+            border-color: #F0E9DF !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]:hover
@@ -45858,7 +45858,7 @@ a.u-link.u-text-hover-color-var:hover {
         a.u-button-style.u-text-custom-color-2,
         a.u-button-style.u-text-custom-color-2[class*="u-border-"]
         {
-            color: #f5f36d !important;
+            color: #F0E9DF !important;
             
             
             
@@ -45895,7 +45895,7 @@ a.u-link.u-text-hover-color-var:hover {
         .u-popupmenu-items.u-text-hover-custom-color-2 .u-nav-link:hover,
         .u-calendar-time-list .u-calendar-time-slot.u-text-hover-custom-color-2:hover
         {
-            color: #f5f36d !important;
+            color: #F0E9DF !important;
         }
 
         /* active */
@@ -45909,25 +45909,25 @@ a.u-link.u-text-hover-color-var:hover {
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-2 .u-nav-link.active,
         .u-calendar-time-list .u-calendar-time-slot.u-text-active-custom-color-2.u-active
         {
-            color: #f5f36d !important;
+            color: #F0E9DF !important;
         }
 
         .u-text-custom-color-2 .u-svg-link {
-            fill: #f5f36d;
+            fill: #F0E9DF;
         }
 
         .u-text-hover-custom-color-2:hover .u-svg-link,
         .u-text-hover-custom-color-2:focus .u-svg-link,
         .u-button-style:hover > .u-text-hover-custom-color-2 .u-svg-link
         {
-            fill: #f5f36d;
+            fill: #F0E9DF;
         }
 
         .u-text-active-custom-color-2:active .u-svg-link.u-svg-link,
         .u-button-style.u-button-style:active > .u-text-active-custom-color-2 .u-svg-link,
         .u-button-style.u-button-style.active > .u-text-active-custom-color-2 .u-svg-link
         {
-            fill: #f5f36d;
+            fill: #F0E9DF;
         }
 
         .u-link.u-text-custom-color-2:hover
@@ -45937,7 +45937,7 @@ a.u-link.u-text-hover-color-var:hover {
 
         a.u-link.u-text-hover-custom-color-2:hover
         {
-            color: #f5f36d !important;
+            color: #F0E9DF !important;
         }
 
         .u-body
