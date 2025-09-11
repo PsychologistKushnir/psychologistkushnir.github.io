@@ -45494,7 +45494,12 @@ a.u-link.u-text-hover-color-var:hover {
         .u-table-alt-custom-color-1 tr:nth-child(even)
         {
             color: #111111;
-            background-color: #e0d2b1;
+            background-color:   background: linear-gradient(
+    to bottom,
+    #f6f2eb 0%,   /* светлый верх */
+    #d9cfc4 50%,  /* середина */
+    #bba998 100%  /* тёплый низ */
+  );
 
         }
 
